@@ -29,3 +29,9 @@ starship preset pure-preset > ~/.config/starship.toml
 
 - Some times there can be problems with this method.
 - So dont add it , and just source it every time
+
+Step 3
+
+```rs
+source ~/.cache/starship/init.nu
+```
