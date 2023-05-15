@@ -20,3 +20,6 @@ Work for
 
 > Work commands all taken while following the vid 
 
+```sh 
+pnpm creae t3-app@latest 
+```
