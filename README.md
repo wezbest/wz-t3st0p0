@@ -5,6 +5,7 @@
 
 1. [W ?](#w-)
 2. [Com](#com)
+   1. [Error](#error)
 
 ---
 
@@ -23,3 +24,11 @@ Work for
 ```sh 
 pnpm creae t3-app@latest 
 ```
+## Error 
+
+During build you will get this 
+
+```sh 
+12:30:17 AM: ❌ Invalid environment variables: { DATABASE_URL: [ 'Required' ] }
+```
+- This was mentioned in the tut and is coming from [here]()
