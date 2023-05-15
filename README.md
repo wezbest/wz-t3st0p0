@@ -33,3 +33,5 @@ During build you will get this
 ```
 - This was mentioned in the tut and is coming from [here](https://github.com/wezbest/wz-t3st0p0/blob/main/c1/src/env.mjs#L9-L11)
 - Fix is to have a new database according to the tut 
+
+> P for E is we
