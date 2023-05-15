@@ -31,4 +31,5 @@ During build you will get this
 ```sh 
 12:30:17 AM: ❌ Invalid environment variables: { DATABASE_URL: [ 'Required' ] }
 ```
-- This was mentioned in the tut and is coming from [here]()
+- This was mentioned in the tut and is coming from [here](https://github.com/wezbest/wz-t3st0p0/blob/main/c1/src/env.mjs#L9-L11)
+- Fix is to have a new database according to the tut 
