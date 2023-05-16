@@ -8,6 +8,7 @@
    1. [Error](#error)
 3. [Imp Links](#imp-links)
 4. [Regarding Prisma](#regarding-prisma)
+5. [Clerk.dev](#clerkdev)
 
 ---
 
@@ -60,3 +61,7 @@ npx prisma studio
 ```sh 
 npx prisma db push
 ```
+
+# Clerk.dev
+
+1. This is for authentication with users 
