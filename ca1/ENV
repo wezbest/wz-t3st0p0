@@ -1,6 +1,8 @@
 # Planetscale Databse
-DATABASE_URL='mysql://m92olyj1i7fhdlu94wi0:pscale_pw_4LL2qCp9FCwxcu5nMDrYcah99rFcsqrWhTEPWdjqMiB@aws.connect.psdb.cloud/wzt3st?sslaccept=strict'
 
-#ClerkDev
+DATABASE_URL='mysql://42wb6bfvomfgaafluxdy:pscale_pw_sAMXOH8Jqvw6HlOnpsx9aNcfLQWOWkAH1eTyTeHwRyq@aws.connect.psdb.cloud/wzt3st?sslaccept=strict'
+
+# ClerkDev
+
 NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=pk_test_Y2hhcm1pbmctYWxiYWNvcmUtNy5jbGVyay5hY2NvdW50cy5kZXYk
 CLERK_SECRET_KEY=sk_test_SuoN0T3y1uEMMqagqft103yLeBNLZsa8Q5uELGorYj

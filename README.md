@@ -68,6 +68,8 @@ npx prisma studio
 ```sh
 npx prisma db push
 ```
+- Before doing this step make sure to make changes in the [`prisma.scheme`](./ca1/prisma/schema.prisma) - Where you put the correct database type. This information can be found [`HERE`](https://planetscale.com/docs/prisma/prisma-quickstart)
+  - This is the [`Planetscale - Prisma QuickStart`](https://planetscale.com/docs/prisma/prisma-quickstart) - official documentation
 
 # Clerk.dev
 
