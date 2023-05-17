@@ -30,7 +30,7 @@ Work for
 > Work commands all taken while following the vid
 
 ```sh
-pnpx create t3-app@latest
+pnpm create t3-app@latest
 ```
 
 ## Error
