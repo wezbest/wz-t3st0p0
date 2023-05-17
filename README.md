@@ -3,9 +3,7 @@
 
 ---
 
-
 https://github.com/wezbest/wz-t3st0p0/assets/110793713/fc77d0e7-c576-4b73-872b-769d99c94ea5
-
 
 ---
 
@@ -32,7 +30,7 @@ Work for
 > Work commands all taken while following the vid
 
 ```sh
-pnpm creae t3-app@latest
+pnpx create t3-app@latest
 ```
 
 ## Error
@@ -51,28 +49,30 @@ During build you will get this
 # Imp Links
 
 [`https://planetscale.com/docs/prisma/automatic-prisma-migrations`](https://planetscale.com/docs/prisma/automatic-prisma-migrations)
+
 - Setting to use planetscale with prima
 
 # Regarding Prisma
 
-1. Note this a spearate tech which you need to learn 
+1. Note this a spearate tech which you need to learn
 2. The following are just the commands being used when following the tutorial
 
 **Run Prisma Studio**
 
-```sh 
+```sh
 npx prisma studio
 ```
-- When setting this up for the first time you will get error because there is no schema which has been setup so need to use this command to make it work 
 
-```sh 
+- When setting this up for the first time you will get error because there is no schema which has been setup so need to use this command to make it work
+
+```sh
 npx prisma db push
 ```
 
 # Clerk.dev
 
-1. This is for authentication with users 
+1. This is for authentication with users
 
-# Branches 
+# Branches
 
-Work will be put into different branches 
+Work will be put into different branches
