@@ -15,6 +15,7 @@ https://github.com/wezbest/wz-t3st0p0/assets/110793713/fc77d0e7-c576-4b73-872b-7
 3. [Imp Links](#imp-links)
 4. [Regarding Prisma](#regarding-prisma)
 5. [Clerk.dev](#clerkdev)
+6. [Branches](#branches)
 
 ---
 
@@ -71,3 +72,5 @@ npx prisma db push
 # Clerk.dev
 
 1. This is for authentication with users 
+
+# Branches 
