@@ -11,11 +11,13 @@ datasource db {
   relationMode = "prisma"
 }
 
+model Post {
+id String @id @default(cuid())
+createdAt DateTime @default(now())
 
-model Star {
-  id              Int       @default(autoincrement()) @id
-  createdAt       DateTime  @default(now())
-  updatedAt       DateTime  @updatedAt
-  name            String    @db.VarChar(255)
-  constellation   String    @db.VarChar(255)
+content String @db.VarChar(255)
+authorId String
+
+@@index([authorId])
+
 }
